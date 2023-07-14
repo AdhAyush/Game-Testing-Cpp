@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(19,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(20,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(22,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(22,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(262,29): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\main.cpp(263,30): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Generating code
+  1 of 91 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameTest.vcxproj -> C:\Users\ayush\OneDrive\Desktop\c++\Testing\GameTest\x64\Release\GameTest.exe
